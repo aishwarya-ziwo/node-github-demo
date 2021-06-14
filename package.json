@@ -6,7 +6,6 @@
   "scripts": {
     "test": "mocha ./test/* --exit"
   },
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aishwarya-ziwo/node-github-demo.git"
