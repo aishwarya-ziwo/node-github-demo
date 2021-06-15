@@ -8,8 +8,8 @@
      return res.send("Hello World!!");
     });
 
-    // listen to port 7000 by default
-    app.listen(process.env.PORT || 7000, () => {
+    // listen to port 7001 by default
+    app.listen(process.env.PORT || 7001, () => {
       console.log("Server is running");
     });
 
